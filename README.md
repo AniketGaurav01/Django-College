@@ -47,8 +47,10 @@ python manage.py runserver
 ```
 3. Navigate to
 ```bash
-http://localhost:8000```in your web browser to access the application.
+http://localhost:8000
 ```
+in your web browser to access the application.
+
 
 **Usage**
 =====
