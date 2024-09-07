@@ -15,11 +15,11 @@
 ```bash
 git clone [https://github.com/AniketGaurav01/Django-College.git]
 ```
-3. Install Python dependencies:
+2. Install Python dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-5. Install Node.js dependencies:
+3. Install Node.js dependencies:
 ```bash
 npm install
 ```
@@ -34,7 +34,7 @@ and
 ```bash
 python manage.py migrate
 ```
-3. Create a superuser:
+2. Create a superuser:
 ```bash
 python manage.py createsuperuser
 ```
@@ -45,7 +45,7 @@ python manage.py createsuperuser
 ```bash
 python manage.py runserver
 ```
-3. Navigate to
+2. Navigate to
 ```bash
 http://localhost:8000
 ```
