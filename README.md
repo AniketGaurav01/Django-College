@@ -11,9 +11,11 @@
 
 ### Installation
 
-1. Clone the repository: ```bash
-git clone [https://github.com/AniketGaurav01/Django-College.git]```
-2. Install Python dependencies: ```bash
+1. Clone the repository:
+```bash
+git clone [https://github.com/AniketGaurav01/Django-College.git]
+```
+3. Install Python dependencies: ```bash
 pip install -r requirements.txt```
 4. Install Node.js dependencies: ```bash
 npm install```
