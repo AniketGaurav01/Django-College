@@ -62,7 +62,7 @@ in your web browser to access the application.
 
 ### Admin Panel
 
-1. Navigate to ```bash http://localhost:8000/admin``` to access the Django admin panel.
+1. Navigate to ``` http://localhost:8000/admin``` to access the Django admin panel.
 2. Log in with your superuser credentials to manage the application's content.
 
 **Screenshots**
