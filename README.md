@@ -1,5 +1,8 @@
 **ALLiance University - Django Application**
 
+**Figma Link**
+https://www.figma.com/proto/M1AlXSKIzLpJsQ10RDAiPS/Untitled?node-id=1-2&starting-point-node-id=1%3A2
+
 **Getting Started**
 ===============
 
